@@ -16,7 +16,7 @@ community that make adding new functionality easy.
 [Jinja]: https://jinja.palletsprojects.com/
 
 
-## A Simple Exampleee
+## A Simple Exampleeee
 
 ```python
 # save this as app.py
